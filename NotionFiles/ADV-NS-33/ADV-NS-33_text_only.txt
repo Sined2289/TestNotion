@@ -1,0 +1,28 @@
+# LE COMPTE CLIENT / CUSTOMER, AJOUT D’UN CONTACT test
+Callout: ### INSERTION POINT ###
+   
+  Callout: # CUSTOMER ACCOUNT, ADDING A CONTACT test
+  Callout: Contact additions for Accounting are done directly in NetSuite.
+  Callout: Callout:
+  Callout: Menu Customers > Relationship > Contact
+  Callout: Click on NEW CONTACT
+  Callout: Also via the customer file:
+  Callout: Callout: ### INSERTION POINT ###
+  Callout: # CUSTOMER ACCOUNT, ADDING A CONTACT test
+  Callout: Contact additions for Accounting are done directly in NetSuite.
+  Callout: Callout:
+  Callout: Menu Customers > Relationship > Contact
+  Callout: Click on NEW CONTACT
+  Callout: Also via the customer file:
+  Callout: Callout: ### INSERTION POINT ###
+
+
+Les ajouts de contact pour la Comptabilité se font directement dans NetSuite.
+Callout: 
+  Menu Customers > Relationship > Contact
+  Cliquer sur NEW CONTACT
+
+Via la fiche client également :
+
+
+
