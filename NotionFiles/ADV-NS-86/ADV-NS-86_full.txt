@@ -1,0 +1,82 @@
+# TRANSACTIONS EN MASSE : LA FACTURATION
+### 1 – Prérequis :
+🠆 2 champs obligatoires :
+🠆 Applicable seulement pour les S.O en statut Pending billing (articles en Dropship)
+🠆 Jamais de récurrence sur les S.O 100% Delivery (S.O en dossier de financement non concernées)
+
+Callout: ACCÈS Menu > Transaction > Invoice Sales order > Invoice Sales order
+  Callout: # MASS TRANSACTIONS: BILLING
+  Callout: ### 1 - Prerequisites :
+  Callout: 
+  Callout: 🠆 Applicable only for S.O in Pending billing status (Dropship items)
+  Callout: 🠆 No recurrence on S.O 100% Delivery (S.O in financing file not concerned)
+  Callout: Callout: ACCESS Menu > Transaction > Invoice Sales order > Invoice Sales order
+  Callout: Allows recurring orders to be invoiced:
+  Callout: ### 2 - Enter filters
+  Callout: Callout: Filters marked with a red star : * are mandatory
+  Callout: ### 3 - If filters / columns missing
+  Callout: User code - Order typology - Recurrence - Subsidiary - Invoice period - Zone code
+  Callout: Confirm with SAVE
+  Callout: Check desired fields: Internal comment - Order typology - Subsidiary - User code
+  Callout: Validate with SAVE
+  Callout: ### 4 - Indication of invoicing period
+  Callout: Mass invoicing = no period indicated in the S.O. (as each period is different) (Except for renewals at start of period)
+  Callout: 🠆 Invoice period added via comment on mass invoicing, provided that the batch of invoices has the same period.
+  Callout: Invoice Sales Order page
+  Callout: All selected invoices must have the same billing period (field ''Bill date'') and the same recurrence.
+  Callout: Invoice period text is not carried over to the lines of invoices selected for bulk invoicing - but will be visible on edited invoices.
+  Callout: Check ''Set fields'' tab.
+  Callout: ### 5 - Submission
+  Callout: Select S.O. to be invoiced
+  Callout: Select the relevant S.O. by ticking them, or use the MARK ALL function to select them all if a filter has been applied.
+  Callout: Click on SUBMIT to start bulk billing.
+  Callout: ### 6 - Visualization
+  Callout: Process visualization
+  Callout: Billing status
+  Callout: 🠆 2 mandatory fields:
+
+Permet de facturer les commandes en récurrence :
+
+### 2 – Saisie des filtres
+
+Callout: Filtres marqués d’une étoile rouge : * sont obligatoires
+
+
+![Image](image_396ca310-a0a4-4f0f-8f7a-0d50095bc243.jpg)
+![Image](image_36920bab-26f1-44b0-900c-f3dba247b161.jpg)
+
+### 3 – Si filtres / colonnes manquantes
+![Image](image_79816c46-6477-4f0e-9f30-3c2100c596a7.jpg)
+![Image](image_f506eda9-9600-4efb-ad4d-cb804628132b.jpg)
+User code - Order typology - Récurrence - Subsidiary - Invoice period - Zone code
+Valider par SAVE
+![Image](image_8ed311d6-7087-49d5-ae06-5d16ea902bbe.jpg)
+Cocher les champs désirés : Internal comment - Order typology - Subsidiary - User code
+Valider par SAVE
+
+### 4 – Indication de la période de facturation
+
+Facturation en masse = pas de période indiquée dans la S.O (car différente pour chaque) (Sauf pour les renew début de période)
+  🠆 Période facturée ajoutée via commentaire sur facturation en masse, à condition que le lot de factures ait la même période.
+Page Invoice Sales Order
+Toutes les factures sélectionnées doivent avoir la même période de facturation (champ ‘’Bill date’’) et une même récurrence.
+
+![Image](image_49af88bd-403b-4d36-a2b8-bd62bbfe9df3.jpg)
+![Image](image_00e32d5b-a3da-4473-9e1a-79b629b9f7ee.jpg)
+Le texte ne se reporte pas en Invoice period sur les lignes des factures sélectionnées pour la facturation en masse – mais sera visible sur les facture éditées.
+À vérifier onglet ‘’Set fields’’.
+![Image](image_4ef8946f-8360-489c-a907-95afa574a819.jpg)
+
+### 5 – Soumission
+Sélectionner les S.O. à facturer
+![Image](image_e56e9700-9b7b-4603-888d-8ba5b93e336f.jpg)
+Sélectionner les S.O. concernées en les cochant, ou utiliser la fonction MARK ALL pour toute les sélectionner si un filtre a été appliqué.
+![Image](image_d5f619ef-5509-4f4b-b18d-33211185baae.jpg)
+Cliquer sur SUBMIT pour lancer la facturation en Masse.
+
+### 6 – Visualisation
+Visualisation du process
+État du statut de la facturation
+![Image](image_6ed1fd7e-2778-4abd-898a-be891dd9ca67.jpg)
+
+
