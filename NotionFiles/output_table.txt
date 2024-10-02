@@ -1,2 +1,1 @@
-ADV-NS-86 / 3045_086 / 086-Transactions en masse, la facturation / Francais, English / https://www.notion.so/visiativ/086-Transactions-en-masse-la-facturation-39642135ee8e4582a5504bf4f4b73c4b?pvs=4
-ADV-NS-33 / 3044_033 / 033-NETSUITE -Le compte client, ajout d'un contact  / Francais, English, Deutsch / https://www.notion.so/visiativ/033-NETSUITE-Le-compte-client-ajout-d-un-contact-1ad6ff1622ed476f80cc41ec74f2f4e0?pvs=4
+ADV-NS-33 / 3044_033 / 033-NETSUITE -Le compte client, ajout d'un contact  / Francais / https://www.notion.so/visiativ/033-NETSUITE-Le-compte-client-ajout-d-un-contact-1ad6ff1622ed476f80cc41ec74f2f4e0?pvs=4
