@@ -1,0 +1,71 @@
+# TRANSACTIONS EN MASSE : LA FACTURATION
+### 1 – Prérequis :
+🠆 2 champs obligatoires :
+🠆 Applicable seulement pour les S.O en statut Pending billing (articles en Dropship)
+🠆 Jamais de récurrence sur les S.O 100% Delivery (S.O en dossier de financement non concernées)
+
+Callout: ACCÈS Menu > Transaction > Invoice Sales order > Invoice Sales order
+  Callout: # MASS TRANSACTIONS: BILLING
+  Callout: ### 1 - Prerequisites :
+  Callout: 
+  Callout: 🠆 Applicable only for S.O in Pending billing status (Dropship items)
+  Callout: 🠆 No recurrence on S.O 100% Delivery (S.O in financing file not concerned)
+  Callout: Callout: ACCESS Menu > Transaction > Invoice Sales order > Invoice Sales order
+  Callout: Allows recurring orders to be invoiced:
+  Callout: ### 2 - Enter filters
+  Callout: Callout: Filters marked with a red star : * are mandatory
+  Callout: ### 3 - If filters / columns missing
+  Callout: User code - Order typology - Recurrence - Subsidiary - Invoice period - Zone code
+  Callout: Confirm with SAVE
+  Callout: Check desired fields: Internal comment - Order typology - Subsidiary - User code
+  Callout: Validate with SAVE
+  Callout: ### 4 - Indication of invoicing period
+  Callout: Mass invoicing = no period indicated in the S.O. (as each period is different) (Except for renewals at start of period)
+  Callout: 🠆 Invoice period added via comment on mass invoicing, provided that the batch of invoices has the same period.
+  Callout: Invoice Sales Order page
+  Callout: All selected invoices must have the same billing period (field ''Bill date'') and the same recurrence.
+  Callout: Invoice period text is not carried over to the lines of invoices selected for bulk invoicing - but will be visible on edited invoices.
+  Callout: Check ''Set fields'' tab.
+  Callout: ### 5 - Submission
+  Callout: Select S.O. to be invoiced
+  Callout: Select the relevant S.O. by ticking them, or use the MARK ALL function to select them all if a filter has been applied.
+  Callout: Click on SUBMIT to start bulk billing.
+  Callout: ### 6 - Visualization
+  Callout: Process visualization
+  Callout: Billing status
+  Callout: 🠆 2 mandatory fields:
+
+Permet de facturer les commandes en récurrence :
+
+### 2 – Saisie des filtres
+
+Callout: Filtres marqués d’une étoile rouge : * sont obligatoires
+
+
+
+### 3 – Si filtres / colonnes manquantes
+User code - Order typology - Récurrence - Subsidiary - Invoice period - Zone code
+Valider par SAVE
+Cocher les champs désirés : Internal comment - Order typology - Subsidiary - User code
+Valider par SAVE
+
+### 4 – Indication de la période de facturation
+
+Facturation en masse = pas de période indiquée dans la S.O (car différente pour chaque) (Sauf pour les renew début de période)
+  🠆 Période facturée ajoutée via commentaire sur facturation en masse, à condition que le lot de factures ait la même période.
+Page Invoice Sales Order
+Toutes les factures sélectionnées doivent avoir la même période de facturation (champ ‘’Bill date’’) et une même récurrence.
+
+Le texte ne se reporte pas en Invoice period sur les lignes des factures sélectionnées pour la facturation en masse – mais sera visible sur les facture éditées.
+À vérifier onglet ‘’Set fields’’.
+
+### 5 – Soumission
+Sélectionner les S.O. à facturer
+Sélectionner les S.O. concernées en les cochant, ou utiliser la fonction MARK ALL pour toute les sélectionner si un filtre a été appliqué.
+Cliquer sur SUBMIT pour lancer la facturation en Masse.
+
+### 6 – Visualisation
+Visualisation du process
+État du statut de la facturation
+
+
